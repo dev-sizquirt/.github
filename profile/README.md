@@ -1,2 +1,1 @@
-the place where I (sizquirt) host all my active repositories.
-Expect HTML, Lua and css here.
+simple organization to host some repositories that I do not want on my profile.
